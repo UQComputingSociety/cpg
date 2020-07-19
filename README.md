@@ -8,14 +8,32 @@ The plan is to work through **three** problems every week: one easy, one medium 
 
 We will work through the following problems:
 
-**Easy: [Two Sum](https://leetcode.com/problems/two-sum/)** :large_blue_circle:
+**Easy: [Two Sum](https://leetcode.com/problems/two-sum/)**
 
 > Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-**Medium: [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)** :red_circle:
+**Medium: [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)**
 
 > Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent.
 
-**Hard: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)** :black_circle:
+**Hard: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)**
 
 > There are two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively. Find the median of the two sorted arrays. The overall run time complexity should be `O(log (m+n))`. You may assume `nums1` and `nums2` cannot be both empty.
+
+## Tentative Schedule
+
+| #       | Week starting | Topic                                      | CP3 reference |
+|---------|---------------|--------------------------------------------|---------------|
+| Week 1  |         3 Aug | Beginnings                                 | 1             |
+| Week 2  |        10 Aug | Data Structures                            | 2.1-2.4       |
+| Week 3  |        17 Aug | Complete Search                            | 3.1-3.2       |
+| Week 4  |        24 Aug | Divide & Conquer and Greedy                | 3.3-3.4       |
+| Week 5  |        31 Aug | Dynamic Programming                        | 3.5           |
+| Week 6  |         7 Sep | String Processing                          | 6.1-6.4       |
+| Week 7  |        14 Sep | DFS, BFS and Advanced Graph Traversals     | 4.1-4.2       |
+| Week 8  |        21 Sep | Minimum-Spanning Tree/Shortest Paths       | 4.3-4.5       |
+| Break   |        28 Sep |                                            |               |
+| Week 9  |         5 Oct | Networks                                   | 4.6           |
+| Week 10 |        12 Oct | Combinatorics, Number Theory & Probability | 5.4-5.6       |
+| Week 11 |        19 Oct | Computational Geometry                     | 7.1-7.3       |
+| Week 12 |        26 Oct | ...                                        |               |
