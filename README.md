@@ -4,6 +4,10 @@ The aim of this group is to get practice with programming questions such as thos
 
 The plan is to work through **three** problems every week: one easy, one medium and one hard difficulty. We will start with simple algorithms based on simple data structures anyone with CSSE1001-level programming experience should be familiar with (such as lists and dictionaries). As time goes on, we will progress to more advanced programming techniques, and some of the sessions will briefly introduce these techniques.
 
+## Textbook
+
+The "text" is Competitive Programming 3. We will **not** be using problems out of this book, but we will be following the contents as a rough guide of what to cover. For more problems, refer to CP3, there are hundreds in each section! However, note that this book has code snippets written in C/C++/Java. The reference for each section is given in the "CP3 reference" column of the schedule at the bottom of this README.
+
 ## Week 1: Beginnings
 
 We will work through the following problems:
@@ -24,7 +28,7 @@ We will work through the following problems:
 
 | #       | Week starting | Topic                                      | CP3 reference |
 |---------|---------------|--------------------------------------------|---------------|
-| Week 1  |         3 Aug | Beginnings                                 | 1             |
+| Week 1  |         3 Aug | Beginnings                                 | N/A           |
 | Week 2  |        10 Aug | Data Structures                            | 2.1-2.4       |
 | Week 3  |        17 Aug | Complete Search                            | 3.1-3.2       |
 | Week 4  |        24 Aug | Divide & Conquer and Greedy                | 3.3-3.4       |
