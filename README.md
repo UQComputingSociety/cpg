@@ -37,7 +37,7 @@ We will work through the following problems:
 | Week 7  |        14 Sep | DFS, BFS and Advanced Graph Traversals     | 4.1-4.2       |
 | Week 8  |        21 Sep | Minimum-Spanning Tree/Shortest Paths       | 4.3-4.5       |
 | Break   |        28 Sep |                                            |               |
-| Week 9  |         5 Oct | Networks                                   | 4.6           |
+| Week 9  |         5 Oct | Network Flows                              | 4.6           |
 | Week 10 |        12 Oct | Combinatorics, Number Theory & Probability | 5.4-5.6       |
 | Week 11 |        19 Oct | Computational Geometry                     | 7.1-7.3       |
 | Week 12 |        26 Oct | ...                                        |               |
