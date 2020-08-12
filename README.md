@@ -8,6 +8,30 @@ The plan is to work through **three** problems every week: one easy, one medium 
 
 The "text" is [_Competitive Programming 3_](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf). We won't (for now, this may change in the future) be using problems out of this book, but we will be following the contents as a rough guide of what to cover. For more problems, refer to CP3, there are hundreds in each section! However, note that this book has code snippets written in C/C++/Java. The reference for each section is given in the "CP3 reference" column of the schedule at the bottom of this README.
 
+## Week 2: Data Structures
+
+We will work through the following problems, each based around some data structure. You are highly encouraged to try out more problems to get familiar with these data structures (and others)!
+
+**Easy (Trees): [Invert a Binary Tree](https://leetcode.com/problems/invert-binary-tree/)**
+
+> Invert a binary tree.
+
+**Medium (Stacks): [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)**
+
+> Implement a basic calculator to evaluate a simple expression string. The expression string contains only non-negative integers, `+`, `-`, `*`, `/` operators and empty spaces. The integer division should truncate toward zero.
+
+**Medium (2D Arrays): [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)**
+
+> Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
+> 
+> 1. Each row must contain the digits 1-9 without repetition.
+> 2. Each column must contain the digits 1-9 without repetition.
+> 3. Each of the 9 3x3 sub-boxes of the grid must contain the digits 1-9 without repetition.
+
+**Hard (2D Arrays, for discussion): [Sudoku Solver](https://leetcode.com/problems/sudoku-solver)**
+
+> Write a program to solve a Sudoku puzzle by filling the empty cells.
+
 ## Week 1: Beginnings
 
 We will work through the following problems:
