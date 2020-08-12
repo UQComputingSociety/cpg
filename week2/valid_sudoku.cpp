@@ -1,3 +1,5 @@
+// By Ba Nguyen Nguyen
+
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {

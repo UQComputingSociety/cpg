@@ -1,3 +1,5 @@
+# By Kenton Lam
+
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         # set up sets for ea

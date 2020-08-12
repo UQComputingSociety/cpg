@@ -1,3 +1,5 @@
+# By Kenton Lam
+
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         # set up bit masks for each row/col/box.
