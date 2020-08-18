@@ -54,14 +54,14 @@ We will work through the following problems:
 |---------|---------------|--------------------------------------------|---------------|
 | Week 1  |         3 Aug | Beginnings                                 | N/A           |
 | Week 2  |        10 Aug | Data Structures                            | 2.1-2.4       |
-| Week 3  |        17 Aug | Complete Search                            | 3.1-3.2       |
-| Week 4  |        24 Aug | Divide & Conquer and Greedy                | 3.3-3.4       |
-| Week 5  |        31 Aug | Dynamic Programming                        | 3.5           |
-| Week 6  |         7 Sep | String Processing                          | 6.1-6.4       |
-| Week 7  |        14 Sep | DFS, BFS and Advanced Graph Traversals     | 4.1-4.2       |
-| Week 8  |        21 Sep | Minimum-Spanning Tree/Shortest Paths       | 4.3-4.5       |
+| Week 3  |        17 Aug | Graphs (DFS/BFS)                           |               |
+| Week 4  |        24 Aug | Dynamic Programming                        |               |
+| Week 5  |        31 Aug | ...                                        |               |
+| Week 6  |         7 Sep | ...                                        |               |
+| Week 7  |        14 Sep | ...                                        |               |
+| Week 8  |        21 Sep | ...                                        |               |
 | Break   |        28 Sep |                                            |               |
-| Week 9  |         5 Oct | Network Flows                              | 4.6           |
-| Week 10 |        12 Oct | Combinatorics, Number Theory & Probability | 5.4-5.6       |
-| Week 11 |        19 Oct | Computational Geometry                     | 7.1-7.3       |
+| Week 9  |         5 Oct | ...                                        |               |
+| Week 10 |        12 Oct | ...                                        |               |
+| Week 11 |        19 Oct | ...                                        |               |
 | Week 12 |        26 Oct | ...                                        |               |
