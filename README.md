@@ -8,6 +8,34 @@ The plan is to work through **three** problems every week: one easy, one medium 
 
 The "text" is [_Competitive Programming 3_](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf). We won't (for now, this may change in the future) be using problems out of this book, but we will be following the contents as a rough guide of what to cover. For more problems, refer to CP3, there are hundreds in each section! However, note that this book has code snippets written in C/C++/Java. The reference for each section is given in the "CP3 reference" column of the schedule at the bottom of this README.
 
+## Week 4: Dynamic Programming
+
+We will work through the following problems, each based around dynamic programming. You are highly encouraged to try out more problems to get familiar with these graphs and traversals!
+
+**Easy: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)**
+
+> You are climbing a stair case. It takes `n` steps to reach to the top.
+>
+> Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+**"EaSy": [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)**
+
+> Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+**Medium: [Coin Change](https://leetcode.com/problems/coin-change/)**
+
+> You are given coins of different denominations and a total amount of money `amount`. Write a function to compute the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return `-1`.
+
+**Hard (extension): [Edit Distance](https://leetcode.com/problems/edit-distance/)**
+
+> Given two words `word1` and `word2`, find the minimum number of operations required to convert `word1` to `word2`.
+>
+> You have the following 3 operations permitted on a word:
+> 
+> 1. Insert a character
+> 2. Delete a character
+> 3. Replace a character
+
 ## Week 3: Graphs, Breadth-First Search and Depth-First Search
 
 We will work through the following problems, each based around graphs. You are highly encouraged to try out more problems to get familiar with these graphs and traversals!
