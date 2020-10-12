@@ -6,7 +6,26 @@ The plan is to work through **three** problems every week: one easy, one medium 
 
 ## Textbook
 
-The "text" is [_Competitive Programming 3_](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf). We won't (for now, this may change in the future) be using problems out of this book, but we will be following the contents as a rough guide of what to cover. For more problems, refer to CP3, there are hundreds in each section! However, note that this book has code snippets written in C/C++/Java. The reference for each section is given in the "CP3 reference" column of the schedule at the bottom of this README.
+Our main resource will be the [USACO Guide](https://usaco.guide/), which has a bunch of problems and walks through important topics in competitive programming. Another useful resource is [_Competitive Programming 3_](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf).
+
+## Week 10: Bronze (Simulation)
+
+We'll be working through as many of the problems on [this page](https://usaco.guide/bronze/simulation), to get practice with simulation problems and parsing input/writing output manually (rather than just using the LeetCode interface). List of problems (same as on the website, note that submitting/checking solutions to these problems requires registering on the [USACO website](http://www.usaco.org/)):
+
+- [Shell Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=891), Easy
+- [Mixing Milk](http://www.usaco.org/index.php?page=viewproblem2&cpid=855), Easy
+- [Speeding](http://www.usaco.org/index.php?page=viewproblem2&cpid=568), Easy
+- [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=735), Easy
+- [The Bovine Shuffle](http://www.usaco.org/index.php?page=viewproblem2&cpid=760), Easy
+- [Circular Barn](http://www.usaco.org/index.php?page=viewproblem2&cpid=616), Normal
+- [Block Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=664), Normal
+- [Team Tic Tac Toe](http://www.usaco.org/index.php?page=viewproblem2&cpid=831), Normal
+- [Why Did the Cow Cross the Road](http://www.usaco.org/index.php?page=viewproblem2&cpid=713), Normal
+- [Mowing the Field](http://www.usaco.org/index.php?page=viewproblem2&cpid=593), Normal
+- [Milk Measurement](http://www.usaco.org/index.php?page=viewproblem2&cpid=761), Hard
+- [Angry Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=592), Hard
+
+# Past Problems
 
 ## Week 4: Dynamic Programming
 
@@ -107,21 +126,3 @@ We will work through the following problems:
 **Hard: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)**
 
 > There are two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively. Find the median of the two sorted arrays. The overall run time complexity should be `O(log (m+n))`. You may assume `nums1` and `nums2` cannot be both empty.
-
-## Tentative Schedule
-
-| #       | Week starting | Topic                                      | CP3 reference |
-|---------|---------------|--------------------------------------------|---------------|
-| Week 1  |         3 Aug | Beginnings                                 | N/A           |
-| Week 2  |        10 Aug | Data Structures                            | 2.1-2.4       |
-| Week 3  |        17 Aug | Graphs, DFS, BFS                           |               |
-| Week 4  |        24 Aug | Dynamic Programming                        |               |
-| Week 5  |        31 Aug | ...                                        |               |
-| Week 6  |         7 Sep | ...                                        |               |
-| Week 7  |        14 Sep | ...                                        |               |
-| Week 8  |        21 Sep | ...                                        |               |
-| Break   |        28 Sep |                                            |               |
-| Week 9  |         5 Oct | ...                                        |               |
-| Week 10 |        12 Oct | ...                                        |               |
-| Week 11 |        19 Oct | ...                                        |               |
-| Week 12 |        26 Oct | ...                                        |               |
