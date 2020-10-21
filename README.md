@@ -8,6 +8,16 @@ The plan is to work through **three** problems every week: one easy, one medium 
 
 Our main resource will be the [USACO Guide](https://usaco.guide/), which has a bunch of problems and walks through important topics in competitive programming. Another useful resource is [_Competitive Programming 3_](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf).
 
+## Useful Resources (thanks to Nathan!)
+
+- [Competitive Programming Handbook](https://cses.fi/book/book.pdf) which lists a lot of common topics, and also suitable for someone who has just started with C++.
+- [A website](https://cp-algorithms.com/) with a bunch of algorithms for competitions. 
+- [Competitive programming course at NUS](https://www.comp.nus.edu.sg/~stevenha/cs3233.html). From this link you can get access to a bunch of Kattis problem sets for various topics.
+- [Codeforces’ Gym](http://codeforces.com/gyms?filterContestType=Official+ACM-ICPC+Contest&order=ID_DESC), which is a place that has many ICPC problem sets from regions around the world. If we need team practice for ICPC, I reckon this is a very good place. 
+- Team notebooks: [KTH](https://github.com/kth-competitive-programming/kactl), [Stanford](https://github.com/jaehyunp/stanfordacm)
+- If we want to construct our own team notebook later on, we can use [this website](https://judge.yosupo.jp) to check the correctness of our code.
+- [Geometry for Competitive Programming](https://vlecomte.github.io/cp-geo.pdf) book by V. Lecomte.
+
 ## Week 10: Bronze (Simulation)
 
 We'll be working through as many of the problems on [this page](https://usaco.guide/bronze/simulation), to get practice with simulation problems and parsing input/writing output manually (rather than just using the LeetCode interface). List of problems (same as on the website, note that submitting/checking solutions to these problems requires registering on the [USACO website](http://www.usaco.org/)):
