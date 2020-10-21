@@ -34,8 +34,10 @@ public class ProblemC {
 
         for (int i = 0; i < numWalkways; i++) {
             int[] line = readInts(s);
-            edges.computeIfAbsent(line[0], makeMap).put(line[1], line[2]);
-            edges.computeIfAbsent(line[1], makeMap).put(line[0], line[2]);
+            edges.computeIfAbsent(line[0], makeMap);
+            edges.computeIfAbsent(line[1], makeMap);
+            if (edges.get(line[0]).get(line[1]) == null || edges.get(line[0]).get(line[1]) < line[2]) edges.get(line[0]).put(line[1], line[2]);
+            if (edges.get(line[1]).get(line[0]) == null || edges.get(line[1]).get(line[0]) < line[2]) edges.get(line[1]).put(line[0], line[2]);        
         }
 
         Set<Integer> seen = new HashSet<>();
