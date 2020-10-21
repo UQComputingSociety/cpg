@@ -2,8 +2,6 @@
 
 The aim of this group is to get practice with programming questions such as those found on LeetCode, and to apply to this skills to programming competitions such as Google CodeJam, Advent of Code, Google Kickstart and (potentially) team-based competitions such as the International Collegiate Programming Contest (or ICPC). We aim to meet on a **weekly basis** to discuss and work together on challenging and interesting programming problems, and get some valuable experience for technical interviews along the way!
 
-The plan is to work through **three** problems every week: one easy, one medium and one hard difficulty. We will start with simple algorithms based on simple data structures anyone with CSSE1001-level programming experience should be familiar with (such as lists and dictionaries). As time goes on, we will progress to more advanced programming techniques, and some of the sessions will briefly introduce these techniques.
-
 ## Textbook
 
 Our main resource will be the [USACO Guide](https://usaco.guide/), which has a bunch of problems and walks through important topics in competitive programming. Another useful resource is [_Competitive Programming 3_](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf).
