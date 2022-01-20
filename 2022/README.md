@@ -2,7 +2,7 @@
 
 This year we'll be starting from scratch in **Python**, working our way up from the basics of competitive programming to more advanced algorithms and data structures.
 
-We'll also be hosting our own mini CPG competitions semi-regularly to revise the algorithms and techniques we've learnt and to practice/get used to competition format. (note: there are prizes to be won!)
+We'll also be hosting our own mini CPG competitions semi-regularly to revise the algorithms and techniques we've learnt and to practice/get used to competition format. (bonus: there are prizes to be won!)
 
 ## Resources
 
@@ -16,6 +16,6 @@ The primary resources we'll use are listed below.
 
 ## Schedule
 
-| Week | Topic | Notes |
-| ---- | ----- | ----- |
-|      |       |       |
+| Week   | Topic                                       |
+| ------ | ------------------------------------------- |
+| Week 4 | [Introduction to Competitive Programming](week-4) |
