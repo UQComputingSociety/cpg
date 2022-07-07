@@ -18,7 +18,8 @@ The aim of this group is to get practice with programming questions (like those 
 - Google Kickstart
 - UQCS Code Jam (!)
 - Advent of Code
-- and (potentially) also team-based competitions, such as
+
+and (potentially) also team-based competitions, such as
 
 - ANZAC
 - ICPC (International Collegiate Programming Contest).
@@ -29,7 +30,7 @@ We meet on a weekly basis to discuss and work through challenging and interestin
 
 - Keeps your mind sharp
 - Efficient way to learn core CS topics (e.g. topics covered in COMP3506)
-- Lots of programming experience (especially for programming courses like CSSE1001 :eyes:)
+- Lots of programming experience (especially for programming courses like CSSE1001)
 - Fun!
 - Practically useful (great for technical interviews)
 
@@ -46,7 +47,7 @@ We meet on a weekly basis to discuss and work through challenging and interestin
 **Other formats/competitions**:
 - Individual contests
 - Google CodeJam
-- Google KickStar
+- Google KickStart
 - UQCS CodeJam
 - CodeForces
 - HackerRank
@@ -140,13 +141,15 @@ class Solution(object):
 
 **While this is convenient, it's important to learn how to read from/write to input/output and to learn how to parse inputs!**
 
-Most contests won't give you the luxury of parsing input for you. It's also generally a useful thing to learn anyway, so you might as well learn it.
-
-We'll cover more examples of reading from standard input next week!
+Most contests won't give you the luxury of parsing input for you. It's also generally a useful thing to learn anyway, so you might as well start now. If you'd like to learn a bit more about input/output (including file input/output), you can read a bit more about it [here](https://usaco.guide/general/input-output?lang=py).
 
 ## Questions
 
-You can start off by doing some of the introductory problems on CSES's problem set [here](https://cses.fi/problemset/). These questions do get challenging quick though, so if you'd prefer some easier ones to begin with you can also try Hackerrank's library of Python questions [here](https://www.hackerrank.com/domains/python) (bonus: we'll be using Hackerrank to run our mini CPG competitions throughout the semester :wink:)
+You can start off this week by doing some of these introductory problems:
+- [Square Pasture (USACO Bronze, Very Easy)](http://www.usaco.org/index.php?page=viewproblem2&cpid=663)
+- [Blocked Billboard II (USACO Bronze, Easy)](http://www.usaco.org/index.php?page=viewproblem2&cpid=783)
+- [D3C - White Sheet (CodeForces, Normal)](https://codeforces.com/contest/1216/problem/C)
+- [B. Two Tables (CodeForces, Normal)](https://codeforces.com/problemset/problem/1555/B)
 
 ---
 
