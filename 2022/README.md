@@ -15,16 +15,16 @@ The primary resource we'll be using is the [USACO Guide](https://usaco.guide/), 
 
 ## Schedule
 
-| Week    | Topic                                             |
-| ------- | ------------------------------------------------- |
-| Week 3  | [Introduction to Competitive Programming](week-3) |
-| Week 4  | Searching                                         |
-| Week 5  | Sorting                                           |
-| Week 6  | Greedy Algorithms                                 |
-| Week 7  | Graphs                                            |
-| Week 8  | Dynamic Programming                               |
-| Week 9  | Dynamic Programming II                            |
-| Midsem  | -                                                 |
-| Week 10 | Trees                                             |
-| Week 11 | Graphs II                                         |
-| Week 12 | Hashing                                           |
+| Week    | Topic                                                   |
+| ------- | ------------------------------------------------------- |
+| Week 3  | [Introduction to Competitive Programming](week-3.ipynb) |
+| Week 4  | Searching                                               |
+| Week 5  | Sorting                                                 |
+| Week 6  | Greedy Algorithms                                       |
+| Week 7  | Graphs                                                  |
+| Week 8  | Dynamic Programming                                     |
+| Week 9  | Dynamic Programming II                                  |
+| Midsem  | -                                                       |
+| Week 10 | Trees                                                   |
+| Week 11 | Graphs II                                               |
+| Week 12 | Hashing                                                 |
