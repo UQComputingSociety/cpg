@@ -2,24 +2,26 @@
 
 The aim of this group is to get practice with programming questions (like those found on LeetCode or HackerRank) and to apply these skills to programming competitions throughout the semester/year, such as
 
-- Google Code Jam
-- Google Kickstart
+- ~~Google Code Jam~~
+- ~~Google Kickstart~~
 - UQCS Code Jam (!)
 - Advent of Code
 
-and (potentially) also team-based competitions, such as
+and team-based competitions, such as
 
 - ANZAC
 - ICPC (International Collegiate Programming Contest).
 
 We meet on a weekly basis to discuss and work through challenging and interesting programming problems, gaining some valuable experience for technical interviews along the way!
 
+Sessions and notes from the current year can be found in the 2023 directory [here](/2023).
+
 ## Archive
 
 Here you will find links to CPG sessions and notes from past years/semesters:
 - [2020](/2020)
 - [2021](/2021)
-- [2022](/2022) (current)
+- [2022](/2022)
 
 ## Useful Resources (thanks to Nathan!)
 
