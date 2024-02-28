@@ -80,6 +80,16 @@ def solution_inbuilt_sort(input: str):
     return answer
 
 
+testcase1 = """1
+5
+8 4 2 1 9"""
+
+testcase2 = """7
+10
+7 9 12 11"""
+
+
+
 with open("test3.txt", "r") as file:
     text = file.read()
     result = None
