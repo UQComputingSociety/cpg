@@ -20,10 +20,9 @@ def check_validity_of_answer(output_file: str, input_file: str):
             break
         for j, letter in enumerate(testcase):
             if (answer[j+1] > answer[j] and letter == "D") or (answer[j+1] < answer[j] and letter == "I"):
-                if letter == "D":
-                    print("Pattern does not match")
-                    valid = False
-                    break
+                print("Pattern does not match")
+                valid = False
+                break
         if len(set(answer)) != len(answer):
             valid = False
             print("Numbers are not unique")
