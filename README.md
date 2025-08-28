@@ -12,7 +12,7 @@ and team-based competitions, such as
 
 We meet on a weekly basis to discuss and work through challenging and interesting programming problems, gaining some valuable experience for technical interviews along the way!
 
-Sessions and notes from the current year can be found in the 2024 directory [here](/2024).
+Sessions and notes from the current year can be found in the 2025 directory [here](/2025).
 
 ## Archive
 
@@ -21,6 +21,7 @@ Here you will find links to CPG sessions and notes from past years/semesters:
 - [2021](/2021)
 - [2022](/2022)
 - [2023](/2023/)
+- [2024](/2024/)
 
 ## Useful Resources (thanks to Nathan!)
 
